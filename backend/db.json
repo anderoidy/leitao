@@ -54,6 +54,26 @@
       "name": "notebook",
       "price": "2300.00",
       "id": 11
+    },
+    {
+      "name": "Monitor",
+      "price": "1200.00",
+      "id": 12
+    },
+    {
+      "name": "lapis preto ",
+      "price": "2.50",
+      "id": 13
+    },
+    {
+      "name": "Violao",
+      "price": "100",
+      "id": 14
+    },
+    {
+      "name": "pc gamer ",
+      "price": "100",
+      "id": 15
     }
   ]
 }

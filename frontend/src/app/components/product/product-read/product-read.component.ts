@@ -11,12 +11,12 @@ export class ProductReadComponent implements OnInit {
 
   products: Product[] | undefined
 
-  constructor(private ProductService: ProductService) { }
+  constructor(private productService: ProductService) { }
 
   ngOnInit(): void {
     const newLocal = this.products;
-    this.ProductService.read().subscribe(products => {
-      this.products = this.products
+    this.productService.read().subscribe(products => {
+      this.products = products
       console.log(products)      
     })
   }
