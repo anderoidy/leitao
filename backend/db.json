@@ -36,8 +36,8 @@
       "id": 7
     },
     {
-      "name": "",
-      "price": 0,
+      "name": "Fones JBL",
+      "price": 130,
       "id": 8
     },
     {
@@ -74,6 +74,21 @@
       "name": "pc gamer ",
       "price": "100",
       "id": 15
+    },
+    {
+      "name": "gitarra",
+      "price": "300.00",
+      "id": 16
+    },
+    {
+      "name": "lampada magica",
+      "price": "5000.00",
+      "id": 17
+    },
+    {
+      "name": "monitor Dell Profissional",
+      "price": "3200.00",
+      "id": 18
     }
   ]
 }
