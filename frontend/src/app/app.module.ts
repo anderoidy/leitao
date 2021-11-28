@@ -33,6 +33,7 @@ import { RedDirective } from './directives/red.directive';
 import localePt from '@angular/common/locales/pt';
 import { registerLocaleData } from  '@angular/common';
 import { ForDirective } from './directives/for.directive';
+import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
 
 registerLocaleData(localePt);
 
@@ -48,7 +49,8 @@ registerLocaleData(localePt);
     ProductReadComponent,
     ProductRead2Component,
     RedDirective,
-    ForDirective
+    ForDirective,
+    ProductUpdateComponent
   ],
   imports: [
     BrowserModule,
