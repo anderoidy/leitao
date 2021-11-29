@@ -6,11 +6,6 @@
       "price": 5.89
     },
     {
-      "id": 2,
-      "name": "notebook mac pro",
-      "price": "2.500."
-    },
-    {
       "id": 3,
       "name": "Samsung S20 Ultra",
       "price": "2000.00"
@@ -99,11 +94,6 @@
       "name": "bone kings",
       "price": "20.00",
       "id": 20
-    },
-    {
-      "name": "Tv LG",
-      "price": "2900",
-      "id": 21
     }
   ]
 }
