@@ -91,9 +91,19 @@
       "id": 19
     },
     {
-      "name": "bone kings",
-      "price": "20.00",
+      "name": "PC Gamer AMD ",
+      "price": "4000.00",
       "id": 20
+    },
+    {
+      "name": "cadeira gamer ",
+      "price": "1000.00",
+      "id": 21
+    },
+    {
+      "name": "mesa gamer",
+      "price": "500.00",
+      "id": 22
     }
   ]
 }
