@@ -8,12 +8,12 @@
     {
       "id": 2,
       "name": "notebook mac pro",
-      "price": 12000.89
+      "price": "2.500."
     },
     {
       "id": 3,
       "name": "Samsung S20 Ultra",
-      "price": 5000.89
+      "price": "2000.00"
     },
     {
       "id": 4,
@@ -22,7 +22,7 @@
     },
     {
       "name": "redmi 6A",
-      "price": "700",
+      "price": "750",
       "id": 5
     },
     {
@@ -89,6 +89,21 @@
       "name": "monitor Dell Profissional",
       "price": "3200.00",
       "id": 18
+    },
+    {
+      "name": "pra excluir ",
+      "price": "9.99",
+      "id": 19
+    },
+    {
+      "name": "bone kings",
+      "price": "20.00",
+      "id": 20
+    },
+    {
+      "name": "Tv LG",
+      "price": "2900",
+      "id": 21
     }
   ]
 }
